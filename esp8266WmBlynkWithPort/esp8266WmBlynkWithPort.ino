@@ -1,6 +1,6 @@
 #define BLYNK_PRINT Serial
 #define BLYNK_TEMPLATE_ID "xxxxxx"
-#define BLYNK_TEMPLATE_NAME "project esp32wm"
+#define BLYNK_TEMPLATE_NAME "project esp8266wm"
 
 #include <ESP8266WiFi.h>
 #include <WiFiManager.h>
